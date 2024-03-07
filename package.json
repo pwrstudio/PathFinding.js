@@ -48,5 +48,10 @@
       "type": "MIT",
       "url": "http://opensource.org/licenses/mit-license.php"
     }
-  ]
+  ],
+  "pnpm": {
+    "overrides": {
+      "graceful-fs": "^4.2.11"
+    }
+  }
 }
